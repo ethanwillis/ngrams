@@ -1,0 +1,17 @@
+New Study: More Vaccines Increase Infant Mortality Rates.
+
+A new study published today in the Journal of Human and Experimental Toxology found that countries that administer a higher number of vaccines during the first year of life experience higher infant mortality rates.
+
+The infant mortality rate (IMR) of a country is one of the most accepted and critical indicators of the socioeconomic well being of its citizens. It also reflects public health conditions and whether those conditions are improving or worsening over time.
+
+The United States ranks 34th in infant mortality rate which means that 33 countries outrank the USA in this critical measure of public health. In addition, the United States’ immunization schedule for infants under 1 year of age recommends 26 vaccinations – the highest in the entire world.
+
+To conduct the study, linear regression was used to examine a relationship between the aggressiveness of a country’s vaccination schedule and its corresponding infant mortality rate.
+
+Countries were divided into 5 groups depending on the number of infant vaccines routinely administered in the first year of life:  12-14, 15-17, 18-20, 21-23, and 24-26.
+
+The mean (average) IMR of all the countries within each group was then calculated. Analysis of the unweighted mean IMRs for each group showed a statistically significant relationship between increasing the number of routinely administered infant vaccines during the first year of life and the corresponding infant mortality rate.
+
+The study’s findings are in line with previously observed reductions in the infant mortality rate, specifically in Japan where vaccines were eliminated for children under the age of 2 in 1975.   The country’s infant mortality rate subsequently plummeted to the lowest level in the world.  Japan changed its infant vaccination schedule again in 1995, but it remains one of the least aggressive in the world with Japan’s IMR remaining low as well (third in 2009).
+
+Mr. Neil Z. Miller and Mr. Gary S. Goldman, the study’s authors, have recommended urgency in further examination of the correlation between administration of vaccines to children under 1 year of age and biochemical or synergistic toxicity.

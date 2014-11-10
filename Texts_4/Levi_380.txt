@@ -1,0 +1,46 @@
+Five myths about nuclear energy.
+
+Explosions. Radiation. Evacuations. More than 30 years after Three Mile Island, the unfolding crisis in Japan has brought back some of the worst nightmares surrounding nuclear power — and restarted a major debate about the merits and the drawbacks of this energy source.
+
+Does nuclear energy offer a path away from carbon-based fuels? Or are nuclear power plants too big a threat? It's time to separate myth from reality.
+
+• The biggest problem with nuclear energy is safety.
+
+Safety is certainly a critical issue, as the tragedy in Japan is making clear. But for years, the biggest challenge to sustainable nuclear energy hasn't been safety, but cost.
+
+In the United States, new nuclear construction was already slowing down even before the partial meltdown at Three Mile Island in 1979; the disaster merely sealed its fate. The last nuclear power plant to come online started delivering power in 1996 — but its construction began in 1972. Today, nuclear power remains considerably more expensive than coal- or gas-fired electricity, mainly because nuclear plants are so expensive to build. Estimates are slippery, but a plant can cost well north of $5 billion. A 2009 MIT study estimated that the cost of producing nuclear energy (including construction, maintenance and fuel) was about 30 percent higher than that of coal or gas.
+
+Of course, cost and safety aren't unrelated. Concerns about safety lead to extensive regulatory approval processes and add uncertainty to plant developers' calculations — both of which boost the price of financing new nuclear plants. It's not clear how much these construction costs would fall if safety fears subsided and the financing became cheaper — and after the Fukushima catastrophe, we're unlikely to find out.
+
+• Nuclear power plants are sitting ducks for terrorists.
+
+It's easy to get scared about terrorist attacks on nuclear plants. After the Sept. 11, 2001, attacks, a cottage industry sprung up around the threat, with analysts imagining ever-more horrific and creative ways that terrorists could strike nuclear facilities and unleash massive consequences.
+
+There are certainly real risks: Nuclear expert Matthew Bunn, of Harvard University, has pointed out that well-planned terrorist attacks probably would produce the sort of simultaneous failures in multiple backup systems that Japan's reactors are experiencing. But it's much harder to target a nuclear power plant than one might think, and terrorists would have great difficulty replicating the physical impact that last week's earthquake had on the Japanese plants. It also would be tough for them to breach the concrete domes and other barriers that surround U.S. reactors. And although attacks have been attempted in the past — most notoriously by Basque separatists in Spain in 1977 — none has resulted in widespread damage.
+
+To be sure, the water pools in which reactors store used fuel, which reside outside the containment domes, are more vulnerable than the reactors and could cause real damage if attacked; there is a debate between analysts and industry about whether terrorists could effectively target them.
+
+• Democrats oppose nuclear energy; Republicans favor it.
+
+Yes, the GOP base is enthusiastic about nuclear energy, while the Democratic base is skeptical. Moreover, many Republican politicians support assistance to the industry such as loan guarantees for nuclear developers, while many Democrats oppose them. But the politics of nuclear power have changed in recent years, mainly because of climate change.
+
+Democrats, including many supporters in the environmental movement, have become more open to nuclear power as a large-scale zero-emissions energy option. Steven Chu, President Barack Obama's energy secretary, has been enthusiastic about the nuclear option. When asked to compare coal and nuclear energy in 2009, Chu responded: "I'd rather be living near a nuclear power plant."
+
+The biggest prospective boost for nuclear power in the past two years was an initiative championed by Democrats and scorned by Republicans: cap-and-trade legislation. Cap-and-trade would have penalized polluting power sources such as coal and gas emitters, thus tilting the playing field toward nuclear power. Department of Energy simulations of the ill-fated Waxman-Markey climate bill projected that it would have increased nuclear power generation by 74 percent in 2030.
+
+Yet although Democrats may have become more accepting of nuclear power, few became fully enthusiastic. Japan's tragedy may make many reconsider their stance.
+
+• Nuclear power is the key to energy independence.
+
+When people talk about energy independence, they're thinking about oil, which we mostly use in vehicles and industrial production. When they talk about nuclear, though, they're thinking about electricity. More nuclear power means less coal, less natural gas, less hydroelectric power and less wind energy. But unless we start putting nuclear power plants in our cars and semis, more nuclear won't mean less oil.
+
+This wasn't always the case: During the heyday of nuclear power, the early 1970s (45 plants broke ground between 1970 and 1975), oil was a big electricity source, and boosting nuclear power was a real way to squeeze petroleum out of the economy. Alas, we've already replaced pretty much all the petroleum in the power sector; the opportunity to substitute oil with nuclear power is gone.
+
+• Better technology can make nuclear power safe.
+
+Technology can increase safety, but there will always be risks with nuclear power. The Japanese reactors at the center of the current crisis use old technology that increased their vulnerability. Next-generation reactors will be "passively cooled," which means that if backup power fails like it has in Japan, meltdowns will be avoided more easily. (Passive-cooling systems vary, but their common feature is a lack of dependence on external power.) Other lower-tech improvements, such as stronger containment structures, have also mitigated risk.
+
+But what happened in Japan reminds us that unanticipated vulnerabilities are inevitable in any highly complex system. Careful engineering can minimize the chance of disasters, but it can't eliminate them. Operators and authorities will need to make sure that they're prepared to deal with unanticipated failures even as they work to prevent them.
+
+Most energy sources entail risks. In the past year, we've seen an oil spill in the Gulf of Mexico, fatal explosions at the Upper Big Branch coal mine in West Virginia and now the crisis in Japan. The American public will need to decide whether the risks of nuclear power — compared with those of other energy sources — are too high.
+

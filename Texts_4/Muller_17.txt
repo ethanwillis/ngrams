@@ -1,0 +1,33 @@
+The Case Against Global-Warming Skepticism.
+
+Are you a global warming skeptic? There are plenty of good reasons why you might be.
+
+As many as 757 stations in the United States recorded net surface-temperature cooling over the past century. Many are concentrated in the southeast, where some people attribute tornadoes and hurricanes to warming.
+
+The temperature-station quality is largely awful. The most important stations in the U.S. are included in the Department of Energy's Historical Climatology Network. A careful survey of these stations by a team led by meteorologist Anthony Watts showed that 70% of these stations have such poor siting that, by the U.S. government's own measure, they result in temperature uncertainties of between two and five degrees Celsius or more. We do not know how much worse are the stations in the developing world.
+
+Using data from all these poor stations, the U.N.'s Intergovernmental Panel on Climate Change estimates an average global 0.64ºC temperature rise in the past 50 years, "most" of which the IPCC says is due to humans. Yet the margin of error for the stations is at least three times larger than the estimated warming.
+
+We know that cities show anomalous warming, caused by energy use and building materials; asphalt, for instance, absorbs more sunlight than do trees. Tokyo's temperature rose about 2ºC in the last 50 years. Could that rise, and increases in other urban areas, have been unreasonably included in the global estimates? That warming may be real, but it has nothing to do with the greenhouse effect and can't be addressed by carbon dioxide reduction.
+
+Moreover, the three major temperature analysis groups (the U.S.'s NASA and National Oceanic and Atmospheric Administration, and the U.K.'s Met Office and Climatic Research Unit) analyze only a small fraction of the available data, primarily from stations that have long records. There's a logic to that practice, but it could lead to selection bias. For instance, older stations were often built outside of cities but today are surrounded by buildings. These groups today use data from about 2,000 stations, down from roughly 6,000 in 1970, raising even more questions about their selections.
+
+On top of that, stations have moved, instruments have changed and local environments have evolved. Analysis groups try to compensate for all this by homogenizing the data, though there are plenty of arguments to be had over how best to homogenize long-running data taken from around the world in varying conditions. These adjustments often result in corrections of several tenths of one degree Celsius, significant fractions of the warming attributed to humans.
+
+And that's just the surface-temperature record. What about the rest? The number of named hurricanes has been on the rise for years, but that's in part a result of better detection technologies (satellites and buoys) that find storms in remote regions. The number of hurricanes hitting the U.S., even more intense Category 4 and 5 storms, has been gradually decreasing since 1850. The number of detected tornadoes has been increasing, possibly because radar technology has improved, but the number that touch down and cause damage has been decreasing. Meanwhile, the short-term variability in U.S. surface temperatures has been decreasing since 1800, suggesting a more stable climate.
+
+Without good answers to all these complaints, global-warming skepticism seems sensible. But now let me explain why you should not be a skeptic, at least not any longer.
+
+Over the last two years, the Berkeley Earth Surface Temperature Project has looked deeply at all the issues raised above. I chaired our group, which just submitted four detailed papers on our results to peer-reviewed journals. We have now posted these papers online at www.BerkeleyEarth.org to solicit even more scrutiny.
+
+Our work covers only land temperature—not the oceans—but that's where warming appears to be the greatest. Robert Rohde, our chief scientist, obtained more than 1.6 billion measurements from more than 39,000 temperature stations around the world. Many of the records were short in duration, and to use them Mr. Rohde and a team of esteemed scientists and statisticians developed a new analytical approach that let us incorporate fragments of records. By using data from virtually all the available stations, we avoided data-selection bias. Rather than try to correct for the discontinuities in the records, we simply sliced the records where the data cut off, thereby creating two records from one.
+
+We discovered that about one-third of the world's temperature stations have recorded cooling temperatures, and about two-thirds have recorded warming. The two-to-one ratio reflects global warming. The changes at the locations that showed warming were typically between 1-2ºC, much greater than the IPCC's average of 0.64ºC.
+
+To study urban-heating bias in temperature records, we used satellite determinations that subdivided the world into urban and rural areas. We then conducted a temperature analysis based solely on "very rural" locations, distant from urban ones. The result showed a temperature increase similar to that found by other groups. Only 0.5% of the globe is urbanized, so it makes sense that even a 2ºC rise in urban regions would contribute negligibly to the global average.
+
+What about poor station quality? Again, our statistical methods allowed us to analyze the U.S. temperature record separately for stations with good or acceptable rankings, and those with poor rankings (the U.S. is the only place in the world that ranks its temperature stations). Remarkably, the poorly ranked stations showed no greater temperature increases than the better ones. The mostly likely explanation is that while low-quality stations may give incorrect absolute temperatures, they still accurately track temperature changes.
+
+When we began our study, we felt that skeptics had raised legitimate issues, and we didn't know what we'd find. Our results turned out to be close to those published by prior groups. We think that means that those groups had truly been very careful in their work, despite their inability to convince some skeptics of that. They managed to avoid bias in their data selection, homogenization and other corrections.
+
+Global warming is real. Perhaps our results will help cool this portion of the climate debate. How much of the warming is due to humans and what will be the likely effects? We made no independent assessment of that.

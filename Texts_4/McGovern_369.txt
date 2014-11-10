@@ -1,0 +1,21 @@
+Opinion: Small modular reactors are the future of nuclear power.
+
+Nuclear experts know how to design a reactor that, by current standards, can produce a superabundance of energy. What’s missing is enough money and political will to build an experimental commercial plant in the United States.
+
+Known as a traveling wave reactor, this innovative reactor is designed to be safer than conventional nuclear plants because it doesn’t require electricity to run cooling systems to prevent a meltdown.
+
+What’s more, the traveling wave reactor uses uranium waste as its basic fuel, enabling it to run for decades without refueling and alleviating proliferation concerns related to plutonium produced in the spent fuel of conventional light-water reactors. There are 700,000 metric tons of waste uranium, or depleted uranium, in the United States. Depleted uranium is readily available, because it is a waste product of the uranium enrichment process used to make nuclear fuel.
+
+The traveling wave reactor — so-called because the fuel moves slowly through the reactor core in a wave — represents a revolution in nuclear technology, a breakthrough that would enable America to regain its global role as a leader in nuclear energy. Because it burns waste uranium and emits no carbon, the reactor is seen as a highly marketable clean-energy technology that can be used domestically and sold overseas.
+
+Using a traveling wave reactor, an 8-metric-ton canister of depleted uranium could generate 25 million megawatt hours of electricity — enough to power 2.5 million U.S. households for one year. But with the availability of 700,000 metric tons of depleted uranium, the traveling wave reactor would have access to an enormous supply of extremely cheap fuel, a huge advantage over other reactor designs.
+
+Another feature of the traveling wave reactor is that it is convection-cooled, reducing the need for water. This feature has special appeal in parts of the United States and the world where water resources are scarce.
+
+According to TerraPower, a start-up nuclear company based outside of Seattle and funded in large part by computer genius Bill Gates, operation of a traveling wave reactor could be demonstrated in less than 10 years, and it could be producing nuclear-generated power for the electric grid within 15 years. TerraPower is gearing up to develop a prototype of a 500-megawatt traveling wave reactor, but it could also be designed as a small modular reactor similar in size to conventional light-water reactors that have powered nuclear submarines.
+
+Small modular reactors are the future of nuclear power. They are compact, designed to be easier to build and operate than large nuclear plants, with fewer valves, pumps and pipes. A small modular traveling wave reactor could be assembled in a factory and shipped by rail to a nuclear plant site. In contrast to a conventional nuclear plant, a small module could be added one at a time as the need for more electricity arises.
+
+U.S. nuclear-reactor construction has been stalled since the 1970s by reduced demand for electricity as well as by safety concerns and high construction costs. Currently, four large conventional reactors are being built in Georgia and South Carolina, but no others are close to breaking ground in the United States. A robust scale-up of government funding for nuclear research and development can put this country on the path toward building a demonstration traveling wave reactor within a few years.
+
+The Department of Energy has earmarked $457 million for two projects to demonstrate the use of small modular reactors, in which the cost would be shared with private industry. But nothing will happen unless Congress makes the money available. The innovative traveling wave reactor is an investment Congress should not put off. America has an opportunity to strengthen nuclear safety globally, while building the first advanced reactor that burns nuclear waste.

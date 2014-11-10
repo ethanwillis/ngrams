@@ -1,0 +1,143 @@
+The Case For and Against Nuclear Power.
+
+Is nuclear power the answer for a warming planet? Or is it too expensive and dangerous to satisfy future energy needs?
+
+Interest in nuclear power is heating up, as the hunt intensifies for "green" alternatives to fossil fuels like coal and natural gas. Even some environmentalists have come on board, citing the severity of the global-warming threat to explain their embrace of the once-maligned power source.
+
+But the issue is far from settled. Proponents insist that nuclear is a necessary alternative in an energy-constrained world. They say that the economics make sense -- and that the public has a warped image of the safety risks, thanks to Three Mile Island, Chernobyl and "The China Syndrome." Opponents, meanwhile, are convinced that the costs are way too high to justify the safety hazards, as well as the increased risks of proliferation.
+
+Has nuclear's time come? The debate rages on.
+
+NUCLEAR'S THE ANSWER.
+
+The argument for nuclear power can be stated pretty simply: We have no choice.
+
+If the world intends to address the threat of global warming and still satisfy its growing appetite for electricity, it needs an ambitious expansion of nuclear power.
+
+Scientists agree that greenhouse gases, mainly carbon dioxide, are building up in the atmosphere and contributing to a gradual increase in global average temperatures. At the same time, making electricity accounts for about a third of U.S. greenhouse emissions, mostly from burning fossil fuels to produce power.
+
+Nuclear power plants, on the other hand, emit virtually no carbon dioxide -- and no sulfur or mercury either. Even when taking into account "full life-cycle emissions" -- including mining of uranium, shipping fuel, constructing plants and managing waste -- nuclear's carbon-dioxide discharges are comparable to the full life-cycle emissions of wind and hydropower and less than solar power.
+
+Nuclear power, of course, isn't the only answer. We need to get more energy from other nonpolluting sources such as solar and wind. Conservation is crucial. So is using technology to make more efficient use of fossil-fuel power.
+
+But we have to be realistic about the limits of these alternatives. As it is, the 104 nuclear power plants in the U.S. generate about a fifth of the nation's energy. Wind accounts for about 1%, and solar even less than that. Any increase in the number of nuclear power plants can help -- even if they won't solve the whole problem.
+
+More important from the standpoint of displacing fossil fuel, nuclear can meet power demand 24 hours a day. Solar and wind can't do that. Nuclear is the only current technology that fits the bill.
+
+The Real Economics.
+
+So, what's the case against nuclear power? It boils down to two things: economics and safety.
+
+Neither holds up to scrutiny.
+
+First, economics. Critics argue that the high cost of building and financing a new plant makes nuclear power uneconomical when compared with other sources of power.
+
+But that's misleading on a number of levels. One reason it's so expensive at this point is that no new plant has been started in the U.S. since the last one to begin construction in 1977. Lenders -- uncertain how long any new plant would take because of political and regulatory delays -- are wary of financing the first new ones. So financing costs are unusually high. As we build more, the timing will be more predictable, and financing costs will no doubt come down as lenders become more comfortable.
+
+Loan guarantees and other federal incentives are needed to get us over this hump. They are not permanent subsidies for uneconomical ventures. Instead, they're limited to the first half dozen of plants as a way to reassure investors that regulatory delays won't needlessly hold up construction. It's important to remember that although nuclear energy has been around a while, it's hardly a "mature" industry, as some critics say. Because of the lack of new plants in so many years, nuclear in many ways is more like an emerging technology, and so subsidies make sense to get it going.
+
+It's also true that a shortage of parts and skills is raising the cost of new plants. But if we start building more plants, the number of companies supplying parts will increase to meet the demand, lowering the price.
+
+Most important, nuclear power appears economically uncompetitive primarily because the price of "cheaper" fossil fuels, mainly coal, don't reflect the high cost that carbon emissions pose for the environment. Add those costs, and suddenly, nuclear power will look like a bargain.
+
+That's likely to happen soon. Governments are expected to assign a cost to greenhouse gases, through either a direct tax (based on the carbon content of a fuel) or a so-called cap-and-trade system, which would set a limit on emissions while allowing companies whose discharges are lower than the cap to sell or trade credits to companies whose pollution exceeds the cap.
+
+Suddenly, big carbon polluters like coal-produced electricity are going to look a lot more expensive compared with low-carbon sources -- in particular, nuclear, wind and hydropower.
+
+It's estimated that a carbon "price" of between $25 and $50 a ton makes nuclear power economically competitive with coal. That should be enough to ease investor concerns about utilities that build new nuclear plants.
+
+Even without a carbon tax, rising natural-gas prices are beginning to make nuclear power more competitive. That's true even in some deregulated markets, such as Texas.
+
+NRG Energy Inc., based in Princeton, N.J., has filed an application to build a reactor adjacent to an existing plant in Texas. Though it's too early to know how much the plant will eventually cost -- or even if it ultimately will get built -- high natural-gas prices alone are enough to justify construction, according to NRG.
+
+One other point on cost: Solar and wind advocates say these sources are cheaper than nuclear -- and getting cheaper. But again, even if true, the intermittent nature of these sources make them flawed replacements for carbon-emitting sources. Nuclear is the only clean-energy way to address that gap.
+
+No 'China Syndrome’.
+
+Let's turn to the critics' other argument: safety. We're still living in a world whose viewpoints have been warped by the 1979 accident at the Three Mile Island plant in Pennsylvania and the 1986 explosion at the Chernobyl plant in the Ukraine, as well as by the anti-nuclear movie "The China Syndrome."
+
+The truth is that there's little doubt that in the U.S., at least, plants are much safer now than they were in the past. Those accidents led regulators and the industry to bolster safety at U.S. nuclear plants. There are more safety features at the plants, plant personnel are better trained, and reactors have been redesigned so that accidents are far less likely to occur. For instance, every U.S. plant has an on-site control-room simulator where employees can hone their skills and handle simulated emergencies, and plant workers spend one week out of every six in the simulator or in the classroom.
+
+The next generation of plants is designed to be even safer, using fewer pumps and piping and relying more on gravity to move water for cooling the hot nuclear core. This means fewer possible places where equipment failure could cause a serious accident.
+
+And even if a serious accident does occur, U.S. plants are designed to make sure that no radiation is released into the environment. Reactors are contained inside a huge structure of reinforced concrete with walls that are as much as four feet thick; the Chernobyl reactor lacked such a structure.
+
+What's more, you can't look at safety in a vacuum. Consider the hazards of the world's reliance on coal-fired plants: Coal mining world-wide results in several thousand deaths every year, most of them in China, and burning coal is a leading source of mercury in the atmosphere.
+
+Furthermore, look at safety more broadly -- from an environmental perspective. The death and destruction stemming from global warming far exceed what is likely to happen if there is a nuclear accident. And yet, when we talk about safety, we seem to focus only on the risks of nuclear power.
+
+Politics of Disposal.
+
+The long-term disposal of nuclear waste is also a problem -- but it's mainly a policy issue, not a technical one.
+
+Most experts agree that the best way to dispose of waste is deep underground, where radioactive materials can be prevented from entering the environment and where it can be guarded against theft or terrorist attack. In the U.S., the Energy Department picked Yucca Mountain in southwestern Nevada for a repository, but political wrangling has so far blocked proceeding with the site, and final approval is considered a long shot. Even if approved, it won't be able to begin accepting waste for a decade or more.
+
+In the meantime, interim storage in deep pools next to nuclear plants is considered sufficiently safe to meet the industry's needs until well into the future. The amount of waste produced is relatively small; all the waste produced so far in the U.S. would only cover a football field about five yards deep. Older, cooler fuel can also be stored for decades in dry casks.
+
+Longer term, advanced fuel recycling and reprocessing can reduce the amount of waste that needs to be stored. While reprocessing wouldn't eliminate the need for a long-term repository, it can reduce the amount, heat and radioactivity of the remaining waste.
+
+Stopping the Spread.
+
+Finally, critics say that an expansion of nuclear power will increase the danger that potentially hostile nations will use nuclear material from a power program to develop atomic weapons, or that rogue states or terrorists will steal nuclear material to make bombs.
+
+While nonproliferation is an important consideration, the proliferation problem won't be solved by turning away from nuclear power.
+
+To curtail these risks, governments need to strengthen current international anti-proliferation efforts to, among other things, give the International Atomic Energy Agency more information about a country's nuclear-related activities and IAEA inspectors greater access to suspect locations. Further, current fuel-reprocessing techniques are limited and new processing technologies are being developed to limit the amount and accessibility of weapons-grade materials (by, for instance, producing a form of plutonium that needs further reprocessing before it could be used in bombs).
+
+One final point about security: One of the biggest dangers to our security is from oil nations providing support to anti-U.S. terrorist groups. The faster we can move away from carbon-based energy, the faster we take away that funding source. Nuclear energy offers the fastest and most direct path to that safer future.
+
+NO TO NUCLEAR.
+
+Nuclear power isn't a solution to global warming. Rather, global warming is just a convenient rationale for an obsolete energy source that makes no sense when compared to the alternatives.
+
+Sure, nuclear power generates lots of electricity while producing virtually no carbon dioxide. But it still faces the same problems that have stymied the development of new nuclear plants for the past 20 years -- exorbitant costs, the risks of an accident or terrorist attack, the threat of proliferation and the challenge of disposing of nuclear waste.
+
+The cost issue alone will mean that few if any new nuclear power stations will get built in the next few years, at least in the U.S., and any that do will require expensive taxpayer subsidies. Instead of subsidizing the development of new plants that have all these other problems, the U.S. would be better off investing in other ways to meet growing energy demands and reduce carbon-dioxide emissions.
+
+In fact, the sheer number of nuclear plants needed to make a major dent in greenhouse emissions means the industry hasn't a prayer of turning nuclear power into the solution to global warming. One study from last year determined that to make a significant contribution toward stabilizing atmospheric carbon dioxide, about 21 new 1,000-megawatt plants would have to be built each year for the next 50 years, including those needed to replace existing reactors, all of which are expected to be retired by 2050. That's considerably more than the most ambitious industry growth projections.
+
+Too Expensive.
+
+But let's start with the biggest problem with nuclear power: the cost.
+
+While no one knows what a new reactor will cost until one gets built, estimates for new construction continue to rise. Building a new plant could cost as much as $6,000 a kilowatt of generating capacity, up from estimates of about $4,000 a kilowatt just a year ago. FPL Group, of Juno Beach, Fla., estimates that two new reactors planned for southeast Florida would cost between $6 billion and $9 billion each.
+
+Part of the reason for the rising cost estimates is the small number of vendors able to supply critical reactor components, as well as a shortage of engineering and construction skills in the nuclear industry. Perhaps the biggest bottleneck is in the huge reactor vessels that contain a plant's radioactive core. Only one plant in the world is capable of forging the huge vessels in a single piece, and it can produce only a handful of the forgings a year. Though the plant intends to expand capacity in the next couple of years, and China has said it plans to begin making the forgings, this key component is expected to limit development for many years.
+
+The only way to make nuclear power economically competitive would be the imposition of steep "prices" on carbon-emitting power sources. Nobody knows precisely how high those prices would have to go -- there are too many variables to consider. But estimates range as high as $60 a ton of carbon dioxide. This imposes an unacceptably high price on consumers.
+
+More important, though, there are less-costly ways of weaning ourselves off these carbon-emitting energy sources. Even if a high price of carbon makes nuclear economic, the costs of renewable energy such as wind and solar power are cheaper, and getting cheaper all the time. By contrast, nuclear is more expensive, and getting more expensive all the time.
+
+Solving a Problem.
+
+And yes, it's true that wind and solar suffer from the problem of not being available 24 hours a day. But new technology is already beginning to solve that problem. And we'd be better off -- from both an economic and safety standpoint -- if we used natural gas to fill in the gaps, rather than nuclear.
+
+Subsidies to the industry distort the financial picture further. In the U.S., Washington assumes liability for any catastrophic damages above $10.5 billion for an accident, and has taken on responsibility for the disposal of nuclear waste. The 1995 federal Energy Policy Act also provides loan guarantees for as much as 80% of the cost of new reactors and additional financial guarantees of up to $2 billion for costs arising from regulatory delays.
+
+The 1995 act saw subsidies as a way to prime the pump of a nuclear-energy revival in the U.S.; increased demand and a stable regulatory environment would ultimately reduce the cost of building new plants. However, the industry for 50 years has shown only a trend toward higher costs, and there's no evidence that subsidies will spur any reduction in those costs.
+
+And besides, if nuclear power is such a great deal, it should be able to stand on its own, and not require such subsidies from the taxpayer. Government subsidies should sponsor research and development into new or emerging energy technologies where prices are already falling and the subsidies can jump-start demand to help further bring down costs. They're inappropriate for mature industries, like nuclear power, where market forces should be allowed to do their work.
+
+The Safety Issue.
+
+Cost isn't the only reason an expansion of nuclear power is a bad idea.
+
+The safety of nuclear plants has certainly improved, thanks to changes adopted in the wake of the Three Mile Island accident. But safety problems persist, because the U.S. Nuclear Regulatory Commission isn't adequately enforcing existing safety standards. What's more, countries where nuclear power is likely to expand don't have a strong system for regulating nuclear safety.
+
+The important thing to remember about safety is this: The entire nuclear power industry is vulnerable to the safety standards of its worst performers, because an accident anywhere in the world would stoke another antinuclear backlash among the public and investors.
+
+There's also the question of waste disposal. Proponents of nuclear power say disposal of the industry's waste products is a political problem. That's true. But it doesn't make the problem any less real. California, for instance, won't allow construction of more plants until the waste issue is resolved.
+
+Opposition to a long-term waste repository at Yucca Mountain shows how difficult it will be to come up with a politically acceptable solution. Yucca Mountain has been plagued by questions about the selection process and its suitability as a repository, and even if it is ultimately approved, it won't be available for at least another decade -- and it will be filled to capacity almost immediately. If it isn't approved, any replacement site will face the same opposition from neighbors and local political leaders.
+
+Proliferation Threat.
+
+By far the greatest risk is the possibility that an expansion of nuclear power will contribute to the proliferation of nuclear weapons. Plants that enrich uranium for power plants can also be used to enrich for bombs; this is the path Iran is suspected of taking in developing a weapons program. An ambitious expansion of nuclear power would require a lot more facilities for enriching uranium, broadening this risk. Facilities for reprocessing spent nuclear fuel for reuse pose the danger that the material can be diverted for weapons.
+
+Expansion of nuclear power in the U.S. doesn't pose a great proliferation risk, but a nuclear renaissance will put a strain on the current anti-proliferation system. Most of the growth world-wide is expected to be in countries -- such as those in the Middle East and Africa -- where a nuclear-energy program could give cover to surreptitious weapons development and create the local expertise in handling and processing nuclear materials.
+
+The dangers of nuclear proliferation would be heightened if a nuclear revival turned to reprocessing of spent fuel to reduce the amount of high-level waste that builds up and to maintain adequate fuel supplies. Reprocessing is a problem because it can produce separated plutonium -- which is easier to steal or divert for weapons production, as North Korea has done, than plutonium contained in highly radioactive fuel. And commercial reprocessing plants produce so much plutonium that keeping track of it all is difficult, making it easier to divert enough for weapons without the loss being detected.
+
+If nuclear power really were able to make a big dent in greenhouse emissions, then it would be worth the time and resources necessary to address all these problems. Instead, though, the magnitude of these difficulties will keep any nuclear renaissance too small to make a difference, and will require expensive government support just to achieve modest gains. Those resources are better spent elsewhere.
+
+

@@ -1,0 +1,25 @@
+In nuclear power, a better way? Here's why.
+
+When I first heard about this, it sounded like one of these miracle cancer cures you read about on the Internet. In this case, the cancer is climate change, and the miracle pill is something called the integral fast reactor, a different way of producing nuclear power. It seems too good to be true, but it looks like it is … true.
+
+In current U.S. nuclear reactors, only 5 percent of the uranium in a fuel rod is “burned” during the fission process. The other 95 percent is a mix of uranium, plutonium and a mishmash of other radioactive elements that refused to be split by the neutron hatchets flying around inside the reactor core. It’s the splitting of uranium atoms by neutrons that releases heat into the water that surrounds the fuel rods. That energy is then used either directly or indirectly to convert water into steam, which drives electric turbines.
+
+This dependence on water is why today’s nuclear reactors are called “light water reactors.” And although the design has some conveniences (water is cheap and plentiful), water tends to slow down neutrons enough that they have a harder time splitting atoms.
+
+Enter what some say is the miracle cure: the IFR. Instead of water, the fuel rods sit in a liquid sodium or lead bath, through which neutrons pass more freely. Faster neutrons mean better fission — a more complete burn of both the uranium and all the other nastier heavy elements.
+
+The ability of an integral fast reactor to burn far more efficiently means drastically reduced “waste” — from 95 percent with today’s reactors to 20 percent with IFRs. And that 20 percent is easily recyclable in the same reactor for further destruction, leaving at most 1 percent of true waste at the end. That 1 percent is still radioactive, but it goes back to “neutral” (as radioactive as naturally occurring uranium) in about 300 years, not the 100,000 years it will take for fuel rods from today’s reactors. Not only can IFRs burn the nuclear waste we’ve accumulated in the last 60 years, they can also turn swords into plowshares by burning weapons-grade uranium and plutonium.
+
+So where is all this daydreaming coming from? The physics equivalent of a cash-only cancer clinic down in Mexico?
+
+No. It’s coming from Argonne National Laboratory, our nation’s primary facility for nuclear power research. Researchers there have been working on this for decades, and they’re well past the paper-and-pencil stage. In fact, GE-Hitachi has an IFR prototype, and they’ve signed a memorandum of understanding to build one in South Carolina.
+
+This miracle cure is based on hard science, not conjecture, and the energy density of nuclear power makes it hard to ignore. Natural gas might be a cleaner alternative to coal and oil, but it’s hardly a real solution to a planet smothering in carbon dioxide.
+
+According to Xcel Energy, there are 809 metric tons of spent nuclear fuel currently being stored at its Prairie Island Nuclear plant outside Red Wing. Dr. Roger Blomquist, a nuclear physicist at Argonne, calculates that the electricity produced from burning that amount of spent fuel with an IFR would be equivalent to operating the two existing Prairie Island reactors for 673 years — with no carbon dioxide emission.
+
+Before global warming, nuclear power was Enemy No. 1 for many environmentalists, but that’s beginning to change. “Pandora’s Promise” is a documentary that chronicles the pronuclear conversion of some leading environmentalists. It starts a one-week run at the Lagoon Cinema in Minneapolis on June 14.
+
+As the director, Robert Stone, writes, “The almost theological adherence to a set of unquestionable beliefs [solar and wind power alone will save us] by most liberals and environmentalists has likely contributed as much or more to prolonging our addiction to fossil fuels as the equally appalling state of denial among many conservatives when it comes to climate change.”
+
+Years ago, the mushroom cloud became the unofficial logo for nuclear power. Now an invisible blanket of CO2 — 400 parts per million and climbing — seems far more threatening. And the power unleashed so heinously in that mushroom cloud might be the answer.
