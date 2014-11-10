@@ -26,7 +26,6 @@ def ngramsProgram(directory, ngramQueries):
 		searchResults.append(queryResults)
 
 	# Output: save our ngrams to disk.
-	#outputNGrams(searchResults)
 	saveResultsAsCSV(searchResults)
 
 def findNGrams(corpus, n):
