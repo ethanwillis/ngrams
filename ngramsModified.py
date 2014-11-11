@@ -19,6 +19,7 @@ def ngramsProgram(directory, ngramQueries):
 		#print("length: " + str(len(txtFileContents)))
 		# Process: process our input to find ngrams matching our
 		# ngram queries. 
+		#print( preprocess(txtFileContents) )
 		queryResults = findNGramsMatching(txtFileContents, ngramQueries)
 		# Prepend the filename to our result.
 		queryResults.insert(0, txtFile)
@@ -53,6 +54,7 @@ def preprocess(corpus):
 	corpus = corpus.translate(translateTable)
 	# normalize for case
 	corpus = corpus.lower()
+	corpus = corpus.replace('\n', '').replace('\t', '').replace('\r', '');
 	return corpus
 
 def findNGramsMatching(corpus, ngramQueries):
