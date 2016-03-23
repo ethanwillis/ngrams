@@ -16,10 +16,8 @@ def ngramsProgram(directory, ngramQueries):
 		txtFileContents = openTxtFile.read()
 		# close the file
 		openTxtFile.close()
-		#print("length: " + str(len(txtFileContents)))
 		# Process: process our input to find ngrams matching our
 		# ngram queries. 
-		#print( preprocess(txtFileContents) )
 		queryResults = findNGramsMatching(txtFileContents, ngramQueries)
 		# Prepend the filename to our result.
 		queryResults.insert(0, txtFile)
@@ -67,7 +65,6 @@ def findNGramsMatching(corpus, ngramQueries):
 	for ngramQuery in ngramQueries:
 		# get all ngrams in our corpus that are the size of our query
 		ngrams = findNGrams(corpus, len(ngramQuery))
-		#print("query: " + str(ngramQuery) + " length: " + str(len(ngramQuery)))
 		numMatches = 0
 		for ngram in ngrams:
 			if cmp(ngram, ngramQuery) == 0:
